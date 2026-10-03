@@ -1,0 +1,6 @@
+{
+  "name": "Kisan Bazaar - زرعی سامان کی خرید و فروخت",
+  "description": "پاکستان کا سب سے بڑا زرعی بازار جہاں کسان اور تاجر ٹریکٹر، مشینری، سولر ٹیوب ویل، بیج اور کھاد خرید و فروخت کر سکتے ہیں۔ ریٹنگز اور جائزوں کے ساتھ۔",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
